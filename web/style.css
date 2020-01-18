@@ -98,7 +98,9 @@ footer {
   flex-direction: column;
   justify-content: center;
 }
-
+footer p {
+  text-align: center;
+}
 #footerImg {
   width: 40px;
   margin: auto;
