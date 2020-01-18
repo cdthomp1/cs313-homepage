@@ -92,6 +92,7 @@ canvas {
   position: fixed;
   top: 0
 }
+
 footer {
   display: flex;
   flex-direction: column;
