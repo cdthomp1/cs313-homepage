@@ -98,10 +98,7 @@ footer {
   flex-direction: column;
   justify-content: center;
 }
-#footerImage {
-  display: flex;
-  flex-direction: row;
-}
+
 #footerImg {
   width: 40px;
   margin: auto;
