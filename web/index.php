@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
-    <title>Document</title>
+    <title>Home</title>
 </head>
 
 <body>

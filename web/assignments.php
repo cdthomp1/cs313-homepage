@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
-    <title>Document</title>
+    <title>Assignments</title>
 </head>
 
 
@@ -23,7 +23,7 @@
         <article>
             <p>Assingments Coming Soon!</p>
         </article>
-        <?php echo "<footer><img id=\"footerImg\" src=\"Dev.png\" /><p>Copyright &copy; " . date("Y") . " Cameron Thompson</p><ul class=\"footerLinks\"><li><a href=\"https://www.linkedin.com/in/cameron-thompson96/\" target=\"_blank\" rel=\"noopener noreferrer\">Linkedin</a></li><li><a href=\"https://github.com/cdthomp1\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li><li><a href=\"/contact.php\">Contact</a></li></ul></footer>";?>
+        <?php include './footer.php' ?>
     </div>
     <script src="particles.js"></script>
 
