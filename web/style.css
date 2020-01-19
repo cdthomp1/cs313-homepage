@@ -111,7 +111,7 @@ footer p {
   justify-content: center;
 }
 ul {
-  list-style-type: none;
+  list-style-type: none !important;
   margin: 0;
   padding: 0;
   overflow: hidden;
