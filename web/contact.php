@@ -35,9 +35,11 @@
                         <input class="u-full-width" name="name" type="text" placeholder="Your name..." id="name">
                     </div>
                 </div>
-                <label for="message">Message</label>
-                <textarea class="u-full-width" name="message" placeholder="Hi Joseph..." id="message"></textarea>
-                <button type="submit" name="submit" class="button">Submit</div>
+                <div class="contact-row">
+                    <label for="message">Message</label>
+                    <textarea class="u-full-width" name="message" placeholder="Hi Joseph..." id="message"></textarea>
+                    <button type="submit" name="submit" class="button">Submit</button>
+                </div>
             </form>
         </section>
     </article>
