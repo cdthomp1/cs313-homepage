@@ -137,8 +137,6 @@ label {
   text-transform: uppercase;
 }
 
-
-
 input,
 textarea {
   font-size: 17pt;
@@ -159,9 +157,9 @@ textarea {
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  background: rgba(212, 212, 255, 0.035);
-  border: none;
-  border-radius: 0;
+  background: rgba(25, 117, 138, 0.521) !important;
+  border: none !important;
+  border-radius: 0 !important;
   color: inherit;
   display: block;
   outline: 0;
@@ -179,8 +177,8 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-  border-color: #555555;
-  box-shadow: 0 0 0 2px #555555;
+  border-color: #818181;
+  box-shadow: 0 0 0 2px #666666;
 }
 
 input[type="text"],
@@ -191,15 +189,4 @@ input[type="search"],
 input[type="url"],
 select {
   height: 2.75em;
-}
-
-.u-full-width {
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.contact-row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
 }
