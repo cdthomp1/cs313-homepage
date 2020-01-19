@@ -23,12 +23,12 @@
                 </div>
             </div>
             <form action="" method="post">
-                <div class="row">
-                    <div class="six columns">
+                <div class="contact-row">
+                    <div>
                         <label for="email">Your email</label>
                         <input class="u-full-width" name="email" type="email" placeholder="Your email..." id="email">
                     </div>
-                    <div class="six columns">
+                    <div>
                         <label for="name">Your Name</label>
                         <input class="u-full-width" name="name" type="text" placeholder="Your name..." id="name">
                     </div>

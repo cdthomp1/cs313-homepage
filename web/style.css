@@ -197,3 +197,8 @@ select {
   width: 100%;
   box-sizing: border-box;
 }
+
+.contact-row {
+  display: flex;
+  flex-direction: row;
+}
