@@ -19,9 +19,11 @@
         <header>
             <a href="index.php"><img src="Dev.png" /></a>
             <h1>Getting in touch is easy!</h1>
-                    <p><strong>Interested in working together?</strong> Fill out the form below and we can get started on creating something amazing together!</p>
-                </div>
-            </div>
+            <p><strong>Interested in working together?</strong> Fill out the form below and we can get started on creating something amazing together!</p>
+    </div>
+    </div>
+    <article>
+        <section>
             <form action="" method="post">
                 <div class="contact-row">
                     <div>
@@ -37,8 +39,10 @@
                 <textarea class="u-full-width" name="message" placeholder="Hi Joseph..." id="message"></textarea>
                 <button type="submit" name="submit" class="button">Submit</div>
             </form>
-        </div>
-        <?php ?>
+        </section>
+    </article>
+    </div>
+    <?php ?>
 
     </div>
     <script src="particles.js"></script>
